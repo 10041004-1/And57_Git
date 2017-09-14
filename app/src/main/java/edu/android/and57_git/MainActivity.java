@@ -22,6 +22,9 @@ public class MainActivity extends AppCompatActivity {
         // 개발자 bbbb당
     }
 
+    public void AAAAA() {
+        //TODO : developer aaa다~
+    }
 
 
 }
