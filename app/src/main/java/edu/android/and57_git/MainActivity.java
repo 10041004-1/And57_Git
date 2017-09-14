@@ -10,4 +10,15 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
+
+
+
+
+    public void test() {
+        // TODO  :  나중에 만들게용:-)
+    }
+
+
+
+
 }
